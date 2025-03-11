@@ -45,7 +45,6 @@ const Portfolio = () => {
                     </div>
                 </div>
             </section>
-
             <section className="py-5 bg-secondary text-center">
                 <h2 className="display-5 fw-bold">Contact</h2>
                 <p className="mt-3">Let's connect! Reach out to me via email, phone, or LinkedIn.</p>
