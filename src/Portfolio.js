@@ -44,7 +44,6 @@ const Portfolio = () => {
                         ))}
                     </div>
                 </div>
-
             </section>
 
             <section className="py-5 bg-secondary text-center">
