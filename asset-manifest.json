@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/portfolio-devendra/static/css/main.79d19d76.css",
+    "main.js": "/portfolio-devendra/static/js/main.796470f5.js",
+    "static/media/DevendraMain.png": "/portfolio-devendra/static/media/DevendraMain.4c685b803afaa0ab20a4.png",
+    "index.html": "/portfolio-devendra/index.html",
+    "main.79d19d76.css.map": "/portfolio-devendra/static/css/main.79d19d76.css.map",
+    "main.796470f5.js.map": "/portfolio-devendra/static/js/main.796470f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79d19d76.css",
+    "static/js/main.796470f5.js"
+  ]
+}
